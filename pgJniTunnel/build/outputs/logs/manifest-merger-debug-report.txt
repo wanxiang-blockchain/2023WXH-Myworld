@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml
+		INJECTED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:5:5-36
+		INJECTED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml
+		INJECTED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml
+		INJECTED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml
+		INJECTED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml
+		INJECTED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:11:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:14:5-74
+	android:name
+		ADDED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:14:22-72
+application
+ADDED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:16:5-20:19
+	android:label
+		ADDED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:18:9-41
+	android:allowBackup
+		ADDED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from /Users/Rickey/Repository/Macnets/pgJniTunnel/src/main/AndroidManifest.xml:19:9-40
